@@ -1,7 +1,16 @@
 {
+  
+  "User":{
+    "email" : "string" ,
+    "password" : "int"
+  
+  },
   "Post": {
-    "email": "amin@gmail.com",
-    "password": "1234",
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
 
   },
   "Comment": {
