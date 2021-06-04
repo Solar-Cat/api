@@ -1,4 +1,10 @@
 {
+  "User" : {
+    "name" : "Amin" , 
+    "Email" : "test", 
+    "password" : "14141" , 
+    "gender" : "male"
+  } ,
   
   "Post": {
     "title": "string",
