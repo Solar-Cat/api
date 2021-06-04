@@ -1,6 +1,4 @@
-{
-  "User": {
+"User": {
     "email": "string",
     "password": "int",
-  }
 }
