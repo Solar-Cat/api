@@ -1,10 +1,8 @@
 {
   "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+    "email": "amin@gmail.com",
+    "password": "1234",
+
   },
   "Comment": {
     "body": "string",
