@@ -1,7 +1,7 @@
 {
   "User" : {
     "name" : "Amin" , 
-    "Email" : "test", 
+    "email" : "test", 
     "password" : "14141" , 
     "gender" : "male"
   } ,
