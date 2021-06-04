@@ -2,10 +2,9 @@
   
   "User":{
     "name" : "string" ,
-    "email" : "string" ,
+    "email" : "string2" ,
     "password" : "int" , 
-    "gender" : "string"
-  
+    "gender" : "string3"
   },
   "Post": {
     "title": "string",
