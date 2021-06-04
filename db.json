@@ -1,4 +1,6 @@
-"User": {
-    "email": "string",
-    "password": "int",
+{
+    "User": {
+        "email": "string",
+        "password": "int",
+    }
 }
